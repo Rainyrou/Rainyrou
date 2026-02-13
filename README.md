@@ -1,16 +1,17 @@
-## Hi there 👋
+### ✨ Seeking Front-End Developer Opportunities ✨
 
-<!--
-**Rainyrou/Rainyrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 🌟 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Kuaishou](https://www.kuaishou.com)** - **Security Technology Department, Risk Control Frontend Team**
+  _Frontend Development Intern | Jan 2026 – Present, Beijing Haidian_
+
+- **[ByteDance](https://www.bytedance.com)** - **Dongchedi R&D Department, Media Monetization Team**
+  _Frontend Development Intern | Apr 2025 – Aug 2025, Hangzhou Xihu_
+
+- **[Didi Global](https://www.didiglobal.com)** - **Ride-hailing Technology Department, Aggregated Travel Team & Huaxiaozhu Pricing Engine Team**
+  _Frontend Development Intern | Nov 2024 – Mar 2025, Beijing Haidian_
+
+- **[Xiaomi](https://www.mi.com)** - **Mobile Phone Department, Core Experience Team**
+  _Frontend Development Intern | Jun 2024 – Oct 2024, Beijing Haidian_
