@@ -1,4 +1,4 @@
-### ✨ Seeking Front-End Developer Opportunities ✨
+### ✨ Seeking Full-Stack / Frontend Infra / AI Engineering Opportunities ✨
 
 ---
 
